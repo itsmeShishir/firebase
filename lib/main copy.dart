@@ -49,3 +49,10 @@
 // final ThemeData darkTheme = ThemeData.dark().copyWith(
 //   iconTheme: IconThemeData(color: Colors.orange),
 // );
+
+
+// void main() async{
+//   WidgetsFlutterBinding.ensureInitialized();
+//   await Firebase.initializeApp();
+//   runApp(const MyApp());
+// }

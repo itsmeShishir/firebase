@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "14477300963",
-    "project_id": "blogs-9ac4c",
-    "storage_bucket": "blogs-9ac4c.appspot.com"
+    "project_number": "89647716782",
+    "project_id": "blogapp-13c0b",
+    "storage_bucket": "blogapp-13c0b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:14477300963:android:a4617e2ffbff31e407a1d6",
+        "mobilesdk_app_id": "1:89647716782:android:7d18d7108eaedcbec5103f",
         "android_client_info": {
           "package_name": "com.example.shop"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLEQrrxHaolxCuI_q0E5mz2zKxR45-vJM"
+          "current_key": "AIzaSyDJVdfrbeJrvPvD4C3MH6EHUAAbqaTrXac"
         }
       ],
       "services": {
