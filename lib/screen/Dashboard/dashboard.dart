@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:shop/screen/RealTimeDatabase%20CRUD/real_tim_crud.dart';
 import 'package:shop/screen/blogs/blog.dart';
 import 'package:shop/screen/homeScreen/homeScree.dart';
 import 'package:shop/screen/settings/setting.dart';
@@ -13,7 +14,7 @@ class _DashboardState extends State<Dashboard> {
 
   static List<Widget> _pages = [
     HomeScreen(),
-    AddPostScreen(),
+    BlogScreen(),
     SettingScren()
   ];
 
