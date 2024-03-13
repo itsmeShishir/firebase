@@ -19,7 +19,6 @@ class _RealTimeDatabaseState extends State<RealTimeCRUDEdatabase> {
     return Scaffold(
       resizeToAvoidBottomInset: true,
       backgroundColor: Colors.blue[100],
-      // For Read/Display Operaion
       body: Column(
         children: [
           Expanded(
