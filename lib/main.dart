@@ -7,6 +7,7 @@ import 'package:shop/screen/login/login.dart';
 import 'package:shop/screen/medai.dart';
 import 'package:shop/screen/register/register.dart';
 import 'package:shop/screen/settings/map.dart';
+import 'package:shop/screen/singleblog/singlescreen.dart';
 import 'package:shop/screen/splashScreen/splashScreen.dart';
 
 
